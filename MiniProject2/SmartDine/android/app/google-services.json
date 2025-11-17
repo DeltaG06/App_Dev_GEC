@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "15685879106",
+    "project_id": "smartdine-33471",
+    "storage_bucket": "smartdine-33471.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15685879106:android:6adcbb385f7a69517874db",
+        "android_client_info": {
+          "package_name": "com.SmartDine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15685879106-05vphr968h3dnekqijeh0a2lv6f8jc4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqjZpoLkmeXeqveKZiwX1xjb82BrI8BoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15685879106-05vphr968h3dnekqijeh0a2lv6f8jc4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15685879106:android:347bd439bf5667db7874db",
+        "android_client_info": {
+          "package_name": "com.smartdine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15685879106-05vphr968h3dnekqijeh0a2lv6f8jc4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqjZpoLkmeXeqveKZiwX1xjb82BrI8BoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15685879106-05vphr968h3dnekqijeh0a2lv6f8jc4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
